@@ -5,6 +5,7 @@ Sorted by year of publication
 | title | year | author | ISBN | comment |
 |-------|------|--------|------|---------|
 |Black Hat Go|2020|Tom Steele, Dan Kottmann, Chris Patten|9781593278656||
+|The Pragmatic Programmer|2019|David Thomas, Andrew Hunt|9780135957059||
 |The Secret Life of Programs|2019|Jonathan E. Steinhart|9781593279707||
 |Network Security Assessment|2016|Chris McNab|9781491910955||
 |LPIC-1: CompTIA Linux+|2016|Anselm Lingnau|9783958452978||

@@ -4,6 +4,7 @@ Sorted by year of publication
 
 | title | year | author | ISBN | comment |
 |-------|------|--------|------|---------|
+|Black Hat Bash|2024|Dolev Farhi, Nick Aleks|9781718503748||
 |Practical IoT Hacking|2021|Fotios Chantzis, Ioannis Stais, Paulino Calderon, Evangelos Deirmentzoglou, Beau Woods|9781718500907||
 |Black Hat Go|2020|Tom Steele, Dan Kottmann, Chris Patten|9781593278656||
 |The Pragmatic Programmer|2019|David Thomas, Andrew Hunt|9780135957059||
